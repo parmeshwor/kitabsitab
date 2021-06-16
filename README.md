@@ -1,2 +1,2 @@
-# python-django
-python-django
+# kitabsitab
+python-django application for books archival
